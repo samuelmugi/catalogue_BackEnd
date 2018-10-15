@@ -1,0 +1,13 @@
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\utils\RestResponse.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\services\ProductsService.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\utils\RestRequestObject.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\controller\CategoryController.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\services\CategoryService.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\entity\Products.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\controller\ProductsController.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\repos\ProductsRepository.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\CatalogueApplication.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\repos\CategoryRepository.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\utils\CorsAPIFilter.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\entity\Category.java
+D:\MJENGO\KCB\productcatalogue\src\main\java\com\mugi\catalogue\utils\RestResponseObject.java
